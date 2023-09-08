@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "337247882424",
+    "project_id": "equitypanditpractical",
+    "storage_bucket": "equitypanditpractical.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337247882424:android:76a0988525a7fae5e5784d",
+        "android_client_info": {
+          "package_name": "com.example.equity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337247882424-eg01hrbmklrpb1i21kbu5hgtkfj8t1mm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.equity",
+            "certificate_hash": "250791754e4bef978b7f43799f5001b52905dc3c"
+          }
+        },
+        {
+          "client_id": "337247882424-evm4t4ihc2ra72sck9h2cs3cu6lfapj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJRTCAC367p9YpOp1OGiPmvhx_e3FTLdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337247882424-evm4t4ihc2ra72sck9h2cs3cu6lfapj1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
